@@ -1,0 +1,29 @@
+# Created by pytest automatically.
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+*.env
+secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Original documents
+data/documents/
+
+# Local vector stores
+data/vector_store/
+backend/data/vector_store/
+
+# Agent files
+.agents/
